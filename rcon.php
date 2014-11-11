@@ -3,7 +3,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="style.css">
-<title>247 | RCON PANEL</title>
+<title>RCON PANEL</title>
 <SCRIPT SRC='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js'></SCRIPT>
 <SCRIPT SRC='//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js'></SCRIPT>
 <SCRIPT SRC='//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js'></SCRIPT>
